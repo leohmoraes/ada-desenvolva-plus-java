@@ -16,3 +16,11 @@ Um motorista precisa abastecer seu carro para uma viagem. O carro tem um consumo
 - calculo da viagem utilizando o valor do litro
 
 
+### Saída Esperada
+```
+Informe o valor do litro do Combustível (ex: 6.01):
+6.1
+
+O consumo total da viagem é de 30,00 litros.
+O gasto total da viagem é de 183,00.
+```
