@@ -37,5 +37,16 @@ Dada uma turma de alunos com N alunos, sendo que essa quantidade deve ser solici
 
 ### Saída Esperada
 ```
+Informe a quantidade de alunos da turma:
+3
+Informe o nome do Aluno 1: Diana
+Informe a nota do Aluno 1: 2
+Informe o nome do Aluno 2: Agatha
+Informe a nota do Aluno 2: 5
+Informe o nome do Aluno 3: Luigi
+Informe a nota do Aluno 3: 10
 
+A nota média da turma é 5,67.
+Alunos aprovados:
+- Luigi
 ```
