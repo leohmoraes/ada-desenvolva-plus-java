@@ -26,13 +26,3 @@ public class Questao3 {
 
     }
 }
-
-// class Aluno {
-//     String nome;
-//     Double nota;
-    
-//     public Aluno(String nome, Double nota) {
-//         this.nome = nome;
-//         this.nota = nota;
-//     }
-// }
