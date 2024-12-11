@@ -50,3 +50,32 @@ A nota média da turma é 5,67.
 Alunos aprovados:
 - Luigi
 ```
+
+## Questão 3 ( 3 pontos ) - Pizza
+
+Uma família está dividindo uma pizza entre seus membros. Crie um programa que solicite o número de membros da família e o número de fatias da pizza. O programa deve calcular quantas fatias cada membro vai receber, e informar se haverá sobras e quantas fatias sobrarão. Se a pizza não puder ser igualmente dividida, o programa deve sugerir quantas fatias adicionais são necessárias para que todos recebam a mesma quantidade.
+
+### Tarefas
+- Solicitar o numero de pessoas
+- Solicitar o numero de fatias da pizza
+- Calcular quantidade de fatias por pessoa
+- Se sobrar, informar a quantidade de fatias que sobram
+- Se tiver pessoas com menos fatias, informar quantas fatias faltam para ficarem com a mesma quantidade
+
+### Saída Esperada
+```
+Quantas pessoas irão saborear a pizza? 4
+Quantas fatias tem a pizza? 12
+Quantidade de fatias que sobram: 0
+Não faltam fatias, exceto se todos querem mais!
+
+Quantas pessoas irão saborear a pizza? 4
+Quantas fatias tem a pizza? 14
+Quantidade de fatias que sobram: 2
+Quantidade de fatias que faltam para não ter brigas: 2
+
+Quantas pessoas irão saborear a pizza? 4
+Quantas fatias tem a pizza? 15
+Quantidade de fatias que sobram: 3
+Quantidade de fatias que faltam para não ter brigas: 1
+```
