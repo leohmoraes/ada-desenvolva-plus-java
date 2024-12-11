@@ -79,3 +79,26 @@ Quantas fatias tem a pizza? 15
 Quantidade de fatias que sobram: 3
 Quantidade de fatias que faltam para não ter brigas: 1
 ```
+
+## Questão 4 ( 1 ponto ) Numero Primo
+
+Um número para ser considerado primo deve ser divisível apenas por 1 e ele mesmo. Considerando isso, crie um programa que vai solicitar um número para o usuário e dizer se ele é primo.
+
+### Tarefas
+- Solicitar a digitacao de um numero inteiro
+- Calcular se ele é SOMENTE divisivel por ele mesmo E divisivel por 1
+- Retorna a mensagem se é Primo ou não.
+
+### Saída Esperada
+
+```
+Informe o número para confirmar se ele é um número primo:
+X, é um número primo!
+Y, não é um número primo!
+
+Informe o número para confirmar se ele é um número primo: 9
+9, não é um número primo!
+
+Informe o número para confirmar se ele é um número primo: 11
+11, é um número primo!
+```
